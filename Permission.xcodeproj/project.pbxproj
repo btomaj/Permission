@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		72246D5226722F4600B60866 /* Defect.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72246D5126722F4600B60866 /* Defect.storyboard */; };
 		724C3B302657B64F003AD330 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724C3B2F2657B64F003AD330 /* AppDelegate.swift */; };
 		724C3B322657B64F003AD330 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724C3B312657B64F003AD330 /* SceneDelegate.swift */; };
 		724C3B342657B64F003AD330 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724C3B332657B64F003AD330 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		72246D5126722F4600B60866 /* Defect.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Defect.storyboard; sourceTree = "<group>"; };
 		724C3B2C2657B64F003AD330 /* Permission.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Permission.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		724C3B2F2657B64F003AD330 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		724C3B312657B64F003AD330 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		724C3B2E2657B64F003AD330 /* Permission */ = {
 			isa = PBXGroup;
 			children = (
+				72246D5126722F4600B60866 /* Defect.storyboard */,
 				724C3B2F2657B64F003AD330 /* AppDelegate.swift */,
 				724C3B312657B64F003AD330 /* SceneDelegate.swift */,
 				724C3B332657B64F003AD330 /* ViewController.swift */,
@@ -127,6 +130,7 @@
 				724C3B3C2657B657003AD330 /* LaunchScreen.storyboard in Resources */,
 				724C3B392657B657003AD330 /* Assets.xcassets in Resources */,
 				724C3B372657B64F003AD330 /* Main.storyboard in Resources */,
+				72246D5226722F4600B60866 /* Defect.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
